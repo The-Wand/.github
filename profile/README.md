@@ -1,4 +1,4 @@
-## Wand 🪄
+## [Wand 🪄](https://github.com/El-Machine/Wand)
 The Bus for Any Factory + Cache
 
 
