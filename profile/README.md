@@ -1,4 +1,4 @@
-## [wend_](https://github.com/el-machine/wand)   
+## [wand](https://github.com/el-machine/wand)   
 **Bus for Any Factory + Cache**   
 [el-machine._](https://el-machine._)   
 [el-machine.|](https://el-machine.|)   
