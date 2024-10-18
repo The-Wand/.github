@@ -2,7 +2,7 @@
 ## **[Bus for Any Factory + Cache](https://github.com/el-machine/wand)**
 
 ### Package Collection
-[📦 |Packages](https://github.com/El-Machine/wand/Collection.json)   
+[📦 |Packages](https://raw.githubusercontent.com/El-Machine/wand/main/collection.json)   
 
 ### Packages
 [🔖 |CoreLocation](https://github.com/El-Machine/Wand_CoreLocation)   
