@@ -13,12 +13,12 @@ Location.one | MotionEvent.one | .all {
 [📦 |Packages](https://raw.githubusercontent.com/The-Wand/Wand/main/collection.json)   
 
 ### Packages
+[🏛️ |Foundation](https://github.com/The-Wand/Foundation)   
 [🔖 |Location](https://github.com/The-Wand/Location)   
 [🏃 |Motion](https://github.com/The-Wand/Motion)   
 [📡 |NFC](https://github.com/The-Wand/NFC)   
-[🏛️ |Foundation](https://github.com/The-Wand/Foundation)   
-[🌤️ |Weather](https://github.com/The-Wand/Weather)   
 [🖥️ |URL](https://github.com/The-Wand/URL)   
+[🌤️ |Weather](https://github.com/The-Wand/Weather)   
 
 Add one sign and wait for the result 🪄   
 ex [Pipe](https://github.com/The-Wand/Pipe)   
