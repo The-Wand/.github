@@ -20,6 +20,8 @@ Location.one | MotionEvent.one | .all {
 [🖥️ |URL](https://github.com/The-Wand/URL)   
 [🌤️ |Weather](https://github.com/The-Wand/Weather)   
 
+[👓 |Vision Demo](https://github.com/The-Wand/Vision-Demo)   
+
 Add one sign and wait for the result 🪄   
 ex [Pipe](https://github.com/The-Wand/Pipe)   
 ex [API](https://github.com/The-Wand/iOS-API-Wrapper)   
